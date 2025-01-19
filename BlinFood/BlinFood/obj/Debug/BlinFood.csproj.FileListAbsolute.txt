@@ -1,0 +1,6 @@
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\bin\Debug\BlinFood.exe
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\bin\Debug\BlinFood.pdb
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\obj\Debug\BlinFood.csproj.AssemblyReference.cache
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\obj\Debug\BlinFood.csproj.CoreCompileInputs.cache
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\obj\Debug\BlinFood.exe
+C:\Users\hom\RiderProjects\ConsoleApp12\BlinFood\obj\Debug\BlinFood.pdb
